@@ -1,6 +1,6 @@
 # Taxi-Demand-Prediction-in-New-York-City
 
-![](New_york.gif)
+![](Images/New_york.gif)
 
 - Predicting the number of taxies pickup given next 10 minute times in New York City.
 ## Information on taxis:
